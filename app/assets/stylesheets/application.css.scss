@@ -43,6 +43,9 @@ a {
 		position: absolute;
 		right: 3em;
 		top: 3em;
+		img {
+			max-width: 40px;
+		}
 	}
 	ul {
 		list-style: none;
